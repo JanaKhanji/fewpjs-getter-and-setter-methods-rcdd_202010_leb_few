@@ -12,5 +12,8 @@ class Circle{
     return this.radius*2*Math.PI
   }
   
+  get area(){
+    
+  }
   
 }
